@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matthewjansonyt
-- 👀 I’m interested in Media Production, Social Media Management, and Web Design
-- 🌱 I’m currently learning Web Design
-- 📫 How to reach me: email matthew@jansonschools.org
+- 👀 I’m interested in Media Production and Web Design
+- 🌱 I’m currently learning Windows Server
+- 📫 How to reach me: email matthew@matthewjansonmediagroup.ga
 
 <!---
 matthewjansonyt/matthewjansonyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
